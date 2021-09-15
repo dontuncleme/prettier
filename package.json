@@ -12,6 +12,9 @@
   "scripts": {
     "editorconfig": "editorconfig-checker"
   },
+  "dependencies": {
+    "prettier": "^2.4.0"
+  },
   "devDependencies": {
     "editorconfig-checker": "^4.0.2"
   },
