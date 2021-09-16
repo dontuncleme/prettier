@@ -12,29 +12,19 @@
   "useTabs": false,
   "overrides": [
     {
-      "files": [
-        "*.js",
-        "*.ts"
-      ],
+      "files": ["*.js", "*.ts"],
       "options": {
         "parser": "typescript"
       }
     },
     {
-      "files": [
-        "*.css",
-        "*.scss"
-      ],
+      "files": ["*.css", "*.scss", "*.pcss"],
       "options": {
         "singleQuote": false
       }
     },
     {
-      "files": [
-        "*.json",
-        "*.md",
-        "*.yml"
-      ],
+      "files": ["*.json", "*.md", "*.yml"],
       "options": {
         "tabWidth": 2
       }
