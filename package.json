@@ -23,12 +23,12 @@
     "pre-commit": "npx lint-staged"
   },
   "dependencies": {
-    "prettier": "^2.4.1"
+    "prettier": "^2.5.1"
   },
   "devDependencies": {
     "editorconfig-checker": "^4.0.2",
-    "lint-staged": "^11.1.2",
-    "simple-git-hooks": "^2.6.1"
+    "lint-staged": "^12.1.2",
+    "simple-git-hooks": "^2.7.0"
   },
   "repository": {
     "type": "git",
