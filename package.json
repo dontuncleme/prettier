@@ -2,7 +2,7 @@
   "name": "@dontuncleme/prettier",
   "version": "1.0.5",
   "description": "Prettier config",
-  "author": "Siarhiej Samsonaŭ <dontuncleme@gmail.com>",
+  "author": "Siarhiej Samsonaŭ <pr@sent.at>",
   "license": "MIT",
   "keywords": [
     "prettier",
@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "editorconfig-checker": "^4.0.2",
-    "lint-staged": "^12.1.2",
+    "lint-staged": "^12.1.3",
     "simple-git-hooks": "^2.7.0"
   },
   "repository": {
